@@ -11,3 +11,5 @@ MOST WANTED
 1. [cunning evil cat manipulator](https://jonathan834.github.io/test.html)
 
 2. [BENITOS EVIL FURRSONA](https://jonathan834.github.io/CAT2.html)
+
+3. [evil cat thinks hes cute](https://jonathan834.github.io/cat3.html)
